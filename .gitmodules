@@ -1,0 +1,3 @@
+[submodule "hugo-theme-console"]
+	path = hugo-theme-console
+	url = https://github.com/strawberryfruit/hugo-theme-console/
